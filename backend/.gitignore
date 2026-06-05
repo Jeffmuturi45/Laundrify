@@ -1,0 +1,20 @@
+.env
+__pyache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Django stuff:
+*.log
+db.sqlite3
+media/
+
+# VS Code settings:
+.vscode/
+
+
+
+        
